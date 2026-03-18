@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Next.js+%7C+React+%7C+TypeScript;Firebase+%7C+Node.js+%7C+n8n;Building+Web+Apps+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-makemyportel.vercel.app-6C63FF?style=for-the-badge&logoColor=white)](https://makemyportel.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-makemyportel.vercel.app-6C63FF?style=for-the-badge&logoColor=white)](https://makemyportel.in)
 [![Email](https://img.shields.io/badge/📧_Email-piyushkundu1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushkundu1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-piyushkundu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushkundu)
 
@@ -46,7 +46,7 @@
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|-----------|-----------|
 | 🏫 **[HopDesk](https://github.com/piyushkundu/hopdesk)** | School ERP & Management System with role-based access | Next.js, TypeScript, Firebase | [🔗 Live](https://hopedesk.vercel.app) |
-| 🌐 **[MakeMyPortel](https://github.com/piyushkundu/makemyportel)** | Portfolio Builder Platform — create stunning portfolios | Next.js, TypeScript, Tailwind, Firebase | [🔗 Live](https://makemyportel.vercel.app) |
+| 🌐 **[MakeMyPortel](https://github.com/piyushkundu/makemyportel)** | Portfolio Builder Platform — create stunning portfolios | Next.js, TypeScript, Tailwind, Firebase | [🔗 Live](https://makemyportel.in) |
 | 📚 **[Knobly](https://github.com/piyushkundu/knobly)** | O Level & CCC Exam Preparation Platform | Next.js, TypeScript | [🔗 Live](https://knobly.vercel.app) |
 | 🏫 **[RKJ](https://github.com/piyushkundu/rkj)** | School Management Platform with Firestore integration | Next.js, TypeScript, Firebase | [🔗 Live](https://rkj-eight.vercel.app) |
 | 💈 **[Saloon](https://github.com/piyushkundu/saloon)** | Salon Booking & Management App | React, TypeScript, Vite, Firebase | — |
